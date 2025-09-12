@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.vercel/
+out/
+.env*
+.DS_Store
+
+# Office temp files
+~$*.xlsx
+.~*.xlsx
+
+# Python leftovers
+.venv/
+__pycache__/
+*.pyc
+
